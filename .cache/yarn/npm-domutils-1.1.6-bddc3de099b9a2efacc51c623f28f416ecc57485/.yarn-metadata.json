@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/domutils/-/domutils-1.1.6.tgz#bddc3de099b9a2efacc51c623f28f416ecc57485",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/domutils/-/domutils-1.1.6.tgz",
+    "hash": "bddc3de099b9a2efacc51c623f28f416ecc57485",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bddc3de099b9a2efacc51c623f28f416ecc57485"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/eventsource-polyfill/-/eventsource-polyfill-0.9.6.tgz#10e0d187f111b167f28fdab918843ce7d818f13c",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/eventsource-polyfill/-/eventsource-polyfill-0.9.6.tgz",
+    "hash": "10e0d187f111b167f28fdab918843ce7d818f13c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "10e0d187f111b167f28fdab918843ce7d818f13c"
+}

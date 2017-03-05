@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/download-git-repo/-/download-git-repo-0.2.1.tgz#89431650b0dc7b0ab2928ee4a022a4fcd3c35c85",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/download-git-repo/-/download-git-repo-0.2.1.tgz",
+    "hash": "89431650b0dc7b0ab2928ee4a022a4fcd3c35c85",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "89431650b0dc7b0ab2928ee4a022a4fcd3c35c85"
+}

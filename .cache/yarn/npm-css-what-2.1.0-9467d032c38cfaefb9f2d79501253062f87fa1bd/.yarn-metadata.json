@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/css-what/-/css-what-2.1.0.tgz#9467d032c38cfaefb9f2d79501253062f87fa1bd",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/css-what/-/css-what-2.1.0.tgz",
+    "hash": "9467d032c38cfaefb9f2d79501253062f87fa1bd",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9467d032c38cfaefb9f2d79501253062f87fa1bd"
+}

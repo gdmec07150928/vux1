@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/htmlparser2/-/htmlparser2-3.9.2.tgz#1bdf87acca0f3f9e53fa4fcceb0f4b4cbb00b338",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/htmlparser2/-/htmlparser2-3.9.2.tgz",
+    "hash": "1bdf87acca0f3f9e53fa4fcceb0f4b4cbb00b338",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1bdf87acca0f3f9e53fa4fcceb0f4b4cbb00b338"
+}

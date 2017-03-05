@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/postcss-modules-extract-imports/-/postcss-modules-extract-imports-1.0.1.tgz#8fb3fef9a6dd0420d3f6d4353cf1ff73f2b2a341",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/postcss-modules-extract-imports/-/postcss-modules-extract-imports-1.0.1.tgz",
+    "hash": "8fb3fef9a6dd0420d3f6d4353cf1ff73f2b2a341",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8fb3fef9a6dd0420d3f6d4353cf1ff73f2b2a341"
+}

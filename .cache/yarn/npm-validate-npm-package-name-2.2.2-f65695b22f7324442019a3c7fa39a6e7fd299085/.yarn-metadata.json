@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/validate-npm-package-name/-/validate-npm-package-name-2.2.2.tgz#f65695b22f7324442019a3c7fa39a6e7fd299085",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/validate-npm-package-name/-/validate-npm-package-name-2.2.2.tgz",
+    "hash": "f65695b22f7324442019a3c7fa39a6e7fd299085",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f65695b22f7324442019a3c7fa39a6e7fd299085"
+}

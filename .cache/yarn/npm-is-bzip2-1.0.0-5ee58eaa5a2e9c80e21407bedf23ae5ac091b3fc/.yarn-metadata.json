@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/is-bzip2/-/is-bzip2-1.0.0.tgz#5ee58eaa5a2e9c80e21407bedf23ae5ac091b3fc",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/is-bzip2/-/is-bzip2-1.0.0.tgz",
+    "hash": "5ee58eaa5a2e9c80e21407bedf23ae5ac091b3fc",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5ee58eaa5a2e9c80e21407bedf23ae5ac091b3fc"
+}

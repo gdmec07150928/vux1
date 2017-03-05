@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-helper-explode-class/-/babel-helper-explode-class-6.22.0.tgz#646304924aa6388a516843ba7f1855ef8dfeb69b",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-helper-explode-class/-/babel-helper-explode-class-6.22.0.tgz",
+    "hash": "646304924aa6388a516843ba7f1855ef8dfeb69b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "646304924aa6388a516843ba7f1855ef8dfeb69b"
+}

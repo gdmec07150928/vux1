@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.2.1.tgz#ca5e43db50dc6e761e3c1296313de33091783511",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.2.1.tgz",
+    "hash": "ca5e43db50dc6e761e3c1296313de33091783511",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ca5e43db50dc6e761e3c1296313de33091783511"
+}

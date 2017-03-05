@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/ansi-red/-/ansi-red-0.1.1.tgz#8c638f9d1080800a353c9c28c8a81ca4705d946c",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/ansi-red/-/ansi-red-0.1.1.tgz",
+    "hash": "8c638f9d1080800a353c9c28c8a81ca4705d946c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8c638f9d1080800a353c9c28c8a81ca4705d946c"
+}

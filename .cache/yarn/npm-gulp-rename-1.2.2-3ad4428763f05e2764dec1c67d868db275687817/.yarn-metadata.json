@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/gulp-rename/-/gulp-rename-1.2.2.tgz#3ad4428763f05e2764dec1c67d868db275687817",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/gulp-rename/-/gulp-rename-1.2.2.tgz",
+    "hash": "3ad4428763f05e2764dec1c67d868db275687817",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3ad4428763f05e2764dec1c67d868db275687817"
+}

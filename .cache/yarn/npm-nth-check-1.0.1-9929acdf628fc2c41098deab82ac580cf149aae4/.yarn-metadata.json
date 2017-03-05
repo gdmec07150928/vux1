@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/nth-check/-/nth-check-1.0.1.tgz#9929acdf628fc2c41098deab82ac580cf149aae4",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/nth-check/-/nth-check-1.0.1.tgz",
+    "hash": "9929acdf628fc2c41098deab82ac580cf149aae4",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9929acdf628fc2c41098deab82ac580cf149aae4"
+}

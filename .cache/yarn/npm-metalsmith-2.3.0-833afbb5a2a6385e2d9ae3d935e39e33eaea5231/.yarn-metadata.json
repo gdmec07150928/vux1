@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/metalsmith/-/metalsmith-2.3.0.tgz#833afbb5a2a6385e2d9ae3d935e39e33eaea5231",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/metalsmith/-/metalsmith-2.3.0.tgz",
+    "hash": "833afbb5a2a6385e2d9ae3d935e39e33eaea5231",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "833afbb5a2a6385e2d9ae3d935e39e33eaea5231"
+}

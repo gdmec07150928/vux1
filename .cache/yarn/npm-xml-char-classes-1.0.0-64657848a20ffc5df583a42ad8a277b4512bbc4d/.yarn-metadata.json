@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/xml-char-classes/-/xml-char-classes-1.0.0.tgz#64657848a20ffc5df583a42ad8a277b4512bbc4d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/xml-char-classes/-/xml-char-classes-1.0.0.tgz",
+    "hash": "64657848a20ffc5df583a42ad8a277b4512bbc4d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "64657848a20ffc5df583a42ad8a277b4512bbc4d"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-object-super/-/babel-plugin-transform-es2015-object-super-6.22.0.tgz#daa60e114a042ea769dd53fe528fc82311eb98fc",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-object-super/-/babel-plugin-transform-es2015-object-super-6.22.0.tgz",
+    "hash": "daa60e114a042ea769dd53fe528fc82311eb98fc",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "daa60e114a042ea769dd53fe528fc82311eb98fc"
+}

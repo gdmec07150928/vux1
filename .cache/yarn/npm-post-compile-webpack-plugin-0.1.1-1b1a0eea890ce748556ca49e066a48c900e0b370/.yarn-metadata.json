@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/post-compile-webpack-plugin/-/post-compile-webpack-plugin-0.1.1.tgz#1b1a0eea890ce748556ca49e066a48c900e0b370",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/post-compile-webpack-plugin/-/post-compile-webpack-plugin-0.1.1.tgz",
+    "hash": "1b1a0eea890ce748556ca49e066a48c900e0b370",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1b1a0eea890ce748556ca49e066a48c900e0b370"
+}

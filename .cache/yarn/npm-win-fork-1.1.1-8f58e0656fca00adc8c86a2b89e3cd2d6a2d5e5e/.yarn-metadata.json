@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/win-fork/-/win-fork-1.1.1.tgz#8f58e0656fca00adc8c86a2b89e3cd2d6a2d5e5e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/win-fork/-/win-fork-1.1.1.tgz",
+    "hash": "8f58e0656fca00adc8c86a2b89e3cd2d6a2d5e5e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8f58e0656fca00adc8c86a2b89e3cd2d6a2d5e5e"
+}

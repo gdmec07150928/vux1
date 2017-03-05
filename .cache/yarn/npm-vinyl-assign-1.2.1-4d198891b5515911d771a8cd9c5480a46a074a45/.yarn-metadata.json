@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vinyl-assign/-/vinyl-assign-1.2.1.tgz#4d198891b5515911d771a8cd9c5480a46a074a45",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vinyl-assign/-/vinyl-assign-1.2.1.tgz",
+    "hash": "4d198891b5515911d771a8cd9c5480a46a074a45",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4d198891b5515911d771a8cd9c5480a46a074a45"
+}

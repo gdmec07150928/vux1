@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/uglify-js/-/uglify-js-2.8.2.tgz#8a19429c5c9a7f096d1d04c460b132603231bb2a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/uglify-js/-/uglify-js-2.8.2.tgz",
+    "hash": "8a19429c5c9a7f096d1d04c460b132603231bb2a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8a19429c5c9a7f096d1d04c460b132603231bb2a"
+}

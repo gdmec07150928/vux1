@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/node-status-codes/-/node-status-codes-1.0.0.tgz#5ae5541d024645d32a58fcddc9ceecea7ae3ac2f",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/node-status-codes/-/node-status-codes-1.0.0.tgz",
+    "hash": "5ae5541d024645d32a58fcddc9ceecea7ae3ac2f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5ae5541d024645d32a58fcddc9ceecea7ae3ac2f"
+}

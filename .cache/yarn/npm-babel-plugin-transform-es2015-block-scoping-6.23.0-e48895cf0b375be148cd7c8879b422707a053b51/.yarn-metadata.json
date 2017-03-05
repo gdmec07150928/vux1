@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-block-scoping/-/babel-plugin-transform-es2015-block-scoping-6.23.0.tgz#e48895cf0b375be148cd7c8879b422707a053b51",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-block-scoping/-/babel-plugin-transform-es2015-block-scoping-6.23.0.tgz",
+    "hash": "e48895cf0b375be148cd7c8879b422707a053b51",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e48895cf0b375be148cd7c8879b422707a053b51"
+}

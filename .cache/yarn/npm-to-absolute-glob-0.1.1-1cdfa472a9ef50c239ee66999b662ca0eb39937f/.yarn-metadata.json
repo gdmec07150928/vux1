@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/to-absolute-glob/-/to-absolute-glob-0.1.1.tgz#1cdfa472a9ef50c239ee66999b662ca0eb39937f",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/to-absolute-glob/-/to-absolute-glob-0.1.1.tgz",
+    "hash": "1cdfa472a9ef50c239ee66999b662ca0eb39937f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1cdfa472a9ef50c239ee66999b662ca0eb39937f"
+}

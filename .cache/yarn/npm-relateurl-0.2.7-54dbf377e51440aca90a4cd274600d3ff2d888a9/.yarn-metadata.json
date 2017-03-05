@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/relateurl/-/relateurl-0.2.7.tgz",
+    "hash": "54dbf377e51440aca90a4cd274600d3ff2d888a9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "54dbf377e51440aca90a4cd274600d3ff2d888a9"
+}

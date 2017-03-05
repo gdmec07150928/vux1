@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/is-gzip/-/is-gzip-1.0.0.tgz#6ca8b07b99c77998025900e555ced8ed80879a83",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/is-gzip/-/is-gzip-1.0.0.tgz",
+    "hash": "6ca8b07b99c77998025900e555ced8ed80879a83",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6ca8b07b99c77998025900e555ced8ed80879a83"
+}

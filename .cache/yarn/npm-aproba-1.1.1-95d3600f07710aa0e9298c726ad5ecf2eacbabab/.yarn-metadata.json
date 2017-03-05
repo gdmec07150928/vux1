@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/aproba/-/aproba-1.1.1.tgz#95d3600f07710aa0e9298c726ad5ecf2eacbabab",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/aproba/-/aproba-1.1.1.tgz",
+    "hash": "95d3600f07710aa0e9298c726ad5ecf2eacbabab",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "95d3600f07710aa0e9298c726ad5ecf2eacbabab"
+}

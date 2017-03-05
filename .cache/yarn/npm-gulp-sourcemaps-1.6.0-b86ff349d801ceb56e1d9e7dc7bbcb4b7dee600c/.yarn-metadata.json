@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/gulp-sourcemaps/-/gulp-sourcemaps-1.6.0.tgz#b86ff349d801ceb56e1d9e7dc7bbcb4b7dee600c",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/gulp-sourcemaps/-/gulp-sourcemaps-1.6.0.tgz",
+    "hash": "b86ff349d801ceb56e1d9e7dc7bbcb4b7dee600c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b86ff349d801ceb56e1d9e7dc7bbcb4b7dee600c"
+}

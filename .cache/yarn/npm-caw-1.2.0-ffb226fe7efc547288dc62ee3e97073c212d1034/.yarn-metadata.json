@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/caw/-/caw-1.2.0.tgz#ffb226fe7efc547288dc62ee3e97073c212d1034",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/caw/-/caw-1.2.0.tgz",
+    "hash": "ffb226fe7efc547288dc62ee3e97073c212d1034",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ffb226fe7efc547288dc62ee3e97073c212d1034"
+}

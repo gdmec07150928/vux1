@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/sum-up/-/sum-up-1.0.3.tgz#1c661f667057f63bcb7875aa1438bc162525156e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/sum-up/-/sum-up-1.0.3.tgz",
+    "hash": "1c661f667057f63bcb7875aa1438bc162525156e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1c661f667057f63bcb7875aa1438bc162525156e"
+}

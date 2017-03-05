@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/countup.js/-/countup.js-1.8.1.tgz#f723bef2a8023182980e7e36f0fb0c8f63ce7146",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/countup.js/-/countup.js-1.8.1.tgz",
+    "hash": "f723bef2a8023182980e7e36f0fb0c8f63ce7146",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f723bef2a8023182980e7e36f0fb0c8f63ce7146"
+}

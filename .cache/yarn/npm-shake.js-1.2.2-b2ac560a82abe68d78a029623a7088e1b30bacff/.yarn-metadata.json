@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/shake.js/-/shake.js-1.2.2.tgz#b2ac560a82abe68d78a029623a7088e1b30bacff",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/shake.js/-/shake.js-1.2.2.tgz",
+    "hash": "b2ac560a82abe68d78a029623a7088e1b30bacff",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b2ac560a82abe68d78a029623a7088e1b30bacff"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-1.10.1.tgz#c6b4cf428139cf1aefbe06a0c00fdb4f8da2f893",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-1.10.1.tgz",
+    "hash": "c6b4cf428139cf1aefbe06a0c00fdb4f8da2f893",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c6b4cf428139cf1aefbe06a0c00fdb4f8da2f893"
+}

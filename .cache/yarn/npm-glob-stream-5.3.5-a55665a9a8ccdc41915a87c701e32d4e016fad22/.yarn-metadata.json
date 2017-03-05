@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/glob-stream/-/glob-stream-5.3.5.tgz#a55665a9a8ccdc41915a87c701e32d4e016fad22",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/glob-stream/-/glob-stream-5.3.5.tgz",
+    "hash": "a55665a9a8ccdc41915a87c701e32d4e016fad22",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a55665a9a8ccdc41915a87c701e32d4e016fad22"
+}

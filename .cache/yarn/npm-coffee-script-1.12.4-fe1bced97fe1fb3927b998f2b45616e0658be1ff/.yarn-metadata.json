@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/coffee-script/-/coffee-script-1.12.4.tgz#fe1bced97fe1fb3927b998f2b45616e0658be1ff",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/coffee-script/-/coffee-script-1.12.4.tgz",
+    "hash": "fe1bced97fe1fb3927b998f2b45616e0658be1ff",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fe1bced97fe1fb3927b998f2b45616e0658be1ff"
+}

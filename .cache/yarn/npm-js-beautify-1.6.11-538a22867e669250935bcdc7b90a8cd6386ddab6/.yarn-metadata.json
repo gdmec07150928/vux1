@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/js-beautify/-/js-beautify-1.6.11.tgz#538a22867e669250935bcdc7b90a8cd6386ddab6",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/js-beautify/-/js-beautify-1.6.11.tgz",
+    "hash": "538a22867e669250935bcdc7b90a8cd6386ddab6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "538a22867e669250935bcdc7b90a8cd6386ddab6"
+}

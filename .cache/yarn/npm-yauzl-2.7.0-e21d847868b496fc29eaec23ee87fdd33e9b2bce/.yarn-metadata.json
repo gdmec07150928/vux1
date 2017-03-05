@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/yauzl/-/yauzl-2.7.0.tgz#e21d847868b496fc29eaec23ee87fdd33e9b2bce",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/yauzl/-/yauzl-2.7.0.tgz",
+    "hash": "e21d847868b496fc29eaec23ee87fdd33e9b2bce",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e21d847868b496fc29eaec23ee87fdd33e9b2bce"
+}

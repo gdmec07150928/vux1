@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz",
+    "hash": "68dff5fbe60c51eb37725ea9e3ed310dcc1e776e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
+}

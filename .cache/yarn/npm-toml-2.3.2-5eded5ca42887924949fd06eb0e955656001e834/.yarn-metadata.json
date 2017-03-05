@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/toml/-/toml-2.3.2.tgz#5eded5ca42887924949fd06eb0e955656001e834",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/toml/-/toml-2.3.2.tgz",
+    "hash": "5eded5ca42887924949fd06eb0e955656001e834",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5eded5ca42887924949fd06eb0e955656001e834"
+}

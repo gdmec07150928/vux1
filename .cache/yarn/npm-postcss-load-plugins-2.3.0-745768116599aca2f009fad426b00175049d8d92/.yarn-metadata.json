@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/postcss-load-plugins/-/postcss-load-plugins-2.3.0.tgz#745768116599aca2f009fad426b00175049d8d92",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/postcss-load-plugins/-/postcss-load-plugins-2.3.0.tgz",
+    "hash": "745768116599aca2f009fad426b00175049d8d92",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "745768116599aca2f009fad426b00175049d8d92"
+}

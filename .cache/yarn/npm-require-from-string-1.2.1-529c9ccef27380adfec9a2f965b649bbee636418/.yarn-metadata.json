@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/require-from-string/-/require-from-string-1.2.1.tgz#529c9ccef27380adfec9a2f965b649bbee636418",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/require-from-string/-/require-from-string-1.2.1.tgz",
+    "hash": "529c9ccef27380adfec9a2f965b649bbee636418",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "529c9ccef27380adfec9a2f965b649bbee636418"
+}

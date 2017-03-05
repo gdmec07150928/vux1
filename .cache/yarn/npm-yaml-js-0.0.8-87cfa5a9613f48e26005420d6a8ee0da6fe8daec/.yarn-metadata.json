@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/yaml-js/-/yaml-js-0.0.8.tgz#87cfa5a9613f48e26005420d6a8ee0da6fe8daec",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/yaml-js/-/yaml-js-0.0.8.tgz",
+    "hash": "87cfa5a9613f48e26005420d6a8ee0da6fe8daec",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "87cfa5a9613f48e26005420d6a8ee0da6fe8daec"
+}

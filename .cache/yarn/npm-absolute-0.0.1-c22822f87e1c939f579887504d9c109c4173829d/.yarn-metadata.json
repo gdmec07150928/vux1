@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/absolute/-/absolute-0.0.1.tgz#c22822f87e1c939f579887504d9c109c4173829d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/absolute/-/absolute-0.0.1.tgz",
+    "hash": "c22822f87e1c939f579887504d9c109c4173829d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c22822f87e1c939f579887504d9c109c4173829d"
+}

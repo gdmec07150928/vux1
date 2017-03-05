@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.2.4.tgz#9751cbea89fa120bf88c226ba41eb8d0b6f1b597",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.2.4.tgz",
+    "hash": "9751cbea89fa120bf88c226ba41eb8d0b6f1b597",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9751cbea89fa120bf88c226ba41eb8d0b6f1b597"
+}

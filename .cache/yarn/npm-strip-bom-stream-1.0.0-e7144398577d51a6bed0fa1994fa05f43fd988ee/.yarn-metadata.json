@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/strip-bom-stream/-/strip-bom-stream-1.0.0.tgz#e7144398577d51a6bed0fa1994fa05f43fd988ee",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/strip-bom-stream/-/strip-bom-stream-1.0.0.tgz",
+    "hash": "e7144398577d51a6bed0fa1994fa05f43fd988ee",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e7144398577d51a6bed0fa1994fa05f43fd988ee"
+}

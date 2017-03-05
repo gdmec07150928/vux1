@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/csso/-/csso-2.3.1.tgz#4f8d91a156f2f1c2aebb40b8fb1b5eb83d94d3b9",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/csso/-/csso-2.3.1.tgz",
+    "hash": "4f8d91a156f2f1c2aebb40b8fb1b5eb83d94d3b9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4f8d91a156f2f1c2aebb40b8fb1b5eb83d94d3b9"
+}

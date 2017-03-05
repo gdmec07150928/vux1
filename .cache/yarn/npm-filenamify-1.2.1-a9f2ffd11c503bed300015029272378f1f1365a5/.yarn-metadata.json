@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/filenamify/-/filenamify-1.2.1.tgz#a9f2ffd11c503bed300015029272378f1f1365a5",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/filenamify/-/filenamify-1.2.1.tgz",
+    "hash": "a9f2ffd11c503bed300015029272378f1f1365a5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a9f2ffd11c503bed300015029272378f1f1365a5"
+}

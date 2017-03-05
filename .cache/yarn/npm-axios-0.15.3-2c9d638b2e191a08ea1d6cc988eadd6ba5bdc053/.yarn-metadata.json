@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/axios/-/axios-0.15.3.tgz#2c9d638b2e191a08ea1d6cc988eadd6ba5bdc053",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/axios/-/axios-0.15.3.tgz",
+    "hash": "2c9d638b2e191a08ea1d6cc988eadd6ba5bdc053",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "2c9d638b2e191a08ea1d6cc988eadd6ba5bdc053"
+}

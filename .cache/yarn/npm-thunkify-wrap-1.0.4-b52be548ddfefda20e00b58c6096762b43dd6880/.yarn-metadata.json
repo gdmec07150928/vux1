@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/thunkify-wrap/-/thunkify-wrap-1.0.4.tgz#b52be548ddfefda20e00b58c6096762b43dd6880",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/thunkify-wrap/-/thunkify-wrap-1.0.4.tgz",
+    "hash": "b52be548ddfefda20e00b58c6096762b43dd6880",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b52be548ddfefda20e00b58c6096762b43dd6880"
+}

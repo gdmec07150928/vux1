@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/bluebird/-/bluebird-3.4.7.tgz#f72d760be09b7f76d08ed8fae98b289a8d05fab3",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/bluebird/-/bluebird-3.4.7.tgz",
+    "hash": "f72d760be09b7f76d08ed8fae98b289a8d05fab3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f72d760be09b7f76d08ed8fae98b289a8d05fab3"
+}

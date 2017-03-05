@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/camel-case/-/camel-case-3.0.0.tgz#ca3c3688a4e9cf3a4cda777dc4dcbc713249cf73",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/camel-case/-/camel-case-3.0.0.tgz",
+    "hash": "ca3c3688a4e9cf3a4cda777dc4dcbc713249cf73",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ca3c3688a4e9cf3a4cda777dc4dcbc713249cf73"
+}

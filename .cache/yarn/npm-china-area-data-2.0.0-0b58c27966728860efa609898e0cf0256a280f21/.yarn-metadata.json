@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/china-area-data/-/china-area-data-2.0.0.tgz#0b58c27966728860efa609898e0cf0256a280f21",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/china-area-data/-/china-area-data-2.0.0.tgz",
+    "hash": "0b58c27966728860efa609898e0cf0256a280f21",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0b58c27966728860efa609898e0cf0256a280f21"
+}

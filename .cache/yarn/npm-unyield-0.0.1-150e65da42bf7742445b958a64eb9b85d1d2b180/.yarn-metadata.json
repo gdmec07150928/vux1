@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/unyield/-/unyield-0.0.1.tgz#150e65da42bf7742445b958a64eb9b85d1d2b180",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/unyield/-/unyield-0.0.1.tgz",
+    "hash": "150e65da42bf7742445b958a64eb9b85d1d2b180",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "150e65da42bf7742445b958a64eb9b85d1d2b180"
+}

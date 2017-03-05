@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vinyl/-/vinyl-1.2.0.tgz#5c88036cf565e5df05558bfc911f8656df218884",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vinyl/-/vinyl-1.2.0.tgz",
+    "hash": "5c88036cf565e5df05558bfc911f8656df218884",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5c88036cf565e5df05558bfc911f8656df218884"
+}

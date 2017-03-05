@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/ipaddr.js/-/ipaddr.js-1.2.0.tgz#8aba49c9192799585bdd643e0ccb50e8ae777ba4",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/ipaddr.js/-/ipaddr.js-1.2.0.tgz",
+    "hash": "8aba49c9192799585bdd643e0ccb50e8ae777ba4",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8aba49c9192799585bdd643e0ccb50e8ae777ba4"
+}

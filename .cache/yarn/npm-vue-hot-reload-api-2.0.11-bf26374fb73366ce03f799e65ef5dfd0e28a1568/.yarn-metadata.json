@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.0.11.tgz#bf26374fb73366ce03f799e65ef5dfd0e28a1568",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.0.11.tgz",
+    "hash": "bf26374fb73366ce03f799e65ef5dfd0e28a1568",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bf26374fb73366ce03f799e65ef5dfd0e28a1568"
+}

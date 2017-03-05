@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vue-loader/-/vue-loader-10.3.0.tgz#436421736e9ad0f1c481330327c376963db86a19",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vue-loader/-/vue-loader-10.3.0.tgz",
+    "hash": "436421736e9ad0f1c481330327c376963db86a19",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "436421736e9ad0f1c481330327c376963db86a19"
+}

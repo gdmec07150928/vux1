@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-class-properties/-/babel-plugin-transform-class-properties-6.23.0.tgz#187b747ee404399013563c993db038f34754ac3b",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-class-properties/-/babel-plugin-transform-class-properties-6.23.0.tgz",
+    "hash": "187b747ee404399013563c993db038f34754ac3b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "187b747ee404399013563c993db038f34754ac3b"
+}

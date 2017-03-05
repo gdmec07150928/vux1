@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/create-error-class/-/create-error-class-3.0.2.tgz#06be7abef947a3f14a30fd610671d401bca8b7b6",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/create-error-class/-/create-error-class-3.0.2.tgz",
+    "hash": "06be7abef947a3f14a30fd610671d401bca8b7b6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "06be7abef947a3f14a30fd610671d401bca8b7b6"
+}

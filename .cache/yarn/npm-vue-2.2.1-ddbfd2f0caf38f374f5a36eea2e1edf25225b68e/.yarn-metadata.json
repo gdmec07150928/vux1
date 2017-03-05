@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vue/-/vue-2.2.1.tgz#ddbfd2f0caf38f374f5a36eea2e1edf25225b68e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vue/-/vue-2.2.1.tgz",
+    "hash": "ddbfd2f0caf38f374f5a36eea2e1edf25225b68e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ddbfd2f0caf38f374f5a36eea2e1edf25225b68e"
+}

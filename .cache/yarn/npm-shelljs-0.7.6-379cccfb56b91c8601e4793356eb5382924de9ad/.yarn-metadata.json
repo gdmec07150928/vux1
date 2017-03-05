@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/shelljs/-/shelljs-0.7.6.tgz#379cccfb56b91c8601e4793356eb5382924de9ad",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/shelljs/-/shelljs-0.7.6.tgz",
+    "hash": "379cccfb56b91c8601e4793356eb5382924de9ad",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "379cccfb56b91c8601e4793356eb5382924de9ad"
+}

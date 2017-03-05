@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/watchpack/-/watchpack-1.3.1.tgz#7d8693907b28ce6013e7f3610aa2a1acf07dad87",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/watchpack/-/watchpack-1.3.1.tgz",
+    "hash": "7d8693907b28ce6013e7f3610aa2a1acf07dad87",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7d8693907b28ce6013e7f3610aa2a1acf07dad87"
+}

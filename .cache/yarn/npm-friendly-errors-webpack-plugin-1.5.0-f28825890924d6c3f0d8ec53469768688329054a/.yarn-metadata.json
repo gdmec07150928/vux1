@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/friendly-errors-webpack-plugin/-/friendly-errors-webpack-plugin-1.5.0.tgz#f28825890924d6c3f0d8ec53469768688329054a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/friendly-errors-webpack-plugin/-/friendly-errors-webpack-plugin-1.5.0.tgz",
+    "hash": "f28825890924d6c3f0d8ec53469768688329054a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f28825890924d6c3f0d8ec53469768688329054a"
+}

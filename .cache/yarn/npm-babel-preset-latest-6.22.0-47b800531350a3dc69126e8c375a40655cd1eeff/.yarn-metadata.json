@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-preset-latest/-/babel-preset-latest-6.22.0.tgz#47b800531350a3dc69126e8c375a40655cd1eeff",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-preset-latest/-/babel-preset-latest-6.22.0.tgz",
+    "hash": "47b800531350a3dc69126e8c375a40655cd1eeff",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "47b800531350a3dc69126e8c375a40655cd1eeff"
+}

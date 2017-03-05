@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/wrap-fn/-/wrap-fn-0.1.5.tgz#f21b6e41016ff4a7e31720dbc63a09016bdf9845",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/wrap-fn/-/wrap-fn-0.1.5.tgz",
+    "hash": "f21b6e41016ff4a7e31720dbc63a09016bdf9845",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f21b6e41016ff4a7e31720dbc63a09016bdf9845"
+}

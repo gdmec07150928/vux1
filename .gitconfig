@@ -1,0 +1,13 @@
+[user]
+    name = 林楷漾
+    email = 2359582968@qq.com
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current

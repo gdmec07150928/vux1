@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/es6-weak-map/-/es6-weak-map-2.0.1.tgz#0d2bbd8827eb5fb4ba8f97fbfea50d43db21ea81",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/es6-weak-map/-/es6-weak-map-2.0.1.tgz",
+    "hash": "0d2bbd8827eb5fb4ba8f97fbfea50d43db21ea81",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0d2bbd8827eb5fb4ba8f97fbfea50d43db21ea81"
+}

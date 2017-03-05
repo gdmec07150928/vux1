@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/merge-stream/-/merge-stream-1.0.1.tgz#4041202d508a342ba00174008df0c251b8c135e1",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/merge-stream/-/merge-stream-1.0.1.tgz",
+    "hash": "4041202d508a342ba00174008df0c251b8c135e1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4041202d508a342ba00174008df0c251b8c135e1"
+}

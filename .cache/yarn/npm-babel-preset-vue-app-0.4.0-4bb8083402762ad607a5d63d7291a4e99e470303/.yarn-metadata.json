@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-preset-vue-app/-/babel-preset-vue-app-0.4.0.tgz#4bb8083402762ad607a5d63d7291a4e99e470303",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-preset-vue-app/-/babel-preset-vue-app-0.4.0.tgz",
+    "hash": "4bb8083402762ad607a5d63d7291a4e99e470303",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4bb8083402762ad607a5d63d7291a4e99e470303"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/ora/-/ora-1.1.0.tgz#69aaa4a209630e43b142c5f7ff41820da87e2faf",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/ora/-/ora-1.1.0.tgz",
+    "hash": "69aaa4a209630e43b142c5f7ff41820da87e2faf",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "69aaa4a209630e43b142c5f7ff41820da87e2faf"
+}

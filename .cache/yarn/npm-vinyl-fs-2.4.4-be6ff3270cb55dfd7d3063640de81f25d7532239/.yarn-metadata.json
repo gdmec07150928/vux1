@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vinyl-fs/-/vinyl-fs-2.4.4.tgz#be6ff3270cb55dfd7d3063640de81f25d7532239",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vinyl-fs/-/vinyl-fs-2.4.4.tgz",
+    "hash": "be6ff3270cb55dfd7d3063640de81f25d7532239",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "be6ff3270cb55dfd7d3063640de81f25d7532239"
+}

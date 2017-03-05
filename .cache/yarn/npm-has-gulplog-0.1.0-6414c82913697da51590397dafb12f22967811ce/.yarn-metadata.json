@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/has-gulplog/-/has-gulplog-0.1.0.tgz#6414c82913697da51590397dafb12f22967811ce",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/has-gulplog/-/has-gulplog-0.1.0.tgz",
+    "hash": "6414c82913697da51590397dafb12f22967811ce",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6414c82913697da51590397dafb12f22967811ce"
+}

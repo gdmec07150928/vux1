@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/lru-cache/-/lru-cache-4.0.2.tgz#1d17679c069cda5d040991a09dbc2c0db377e55e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/lru-cache/-/lru-cache-4.0.2.tgz",
+    "hash": "1d17679c069cda5d040991a09dbc2c0db377e55e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1d17679c069cda5d040991a09dbc2c0db377e55e"
+}

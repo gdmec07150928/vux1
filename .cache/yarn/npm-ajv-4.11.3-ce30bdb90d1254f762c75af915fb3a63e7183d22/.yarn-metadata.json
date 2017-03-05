@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/ajv/-/ajv-4.11.3.tgz#ce30bdb90d1254f762c75af915fb3a63e7183d22",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/ajv/-/ajv-4.11.3.tgz",
+    "hash": "ce30bdb90d1254f762c75af915fb3a63e7183d22",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ce30bdb90d1254f762c75af915fb3a63e7183d22"
+}

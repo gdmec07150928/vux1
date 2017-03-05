@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/pretty-error/-/pretty-error-2.0.2.tgz#a7db19cbb529ca9f0af3d3a2f77d5caf8e5dec23",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/pretty-error/-/pretty-error-2.0.2.tgz",
+    "hash": "a7db19cbb529ca9f0af3d3a2f77d5caf8e5dec23",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a7db19cbb529ca9f0af3d3a2f77d5caf8e5dec23"
+}

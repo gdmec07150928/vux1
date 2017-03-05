@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-helper-vue-jsx-merge-props/-/babel-helper-vue-jsx-merge-props-2.0.2.tgz#aceb1c373588279e2755ea1cfd35c22394fd33f8",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-helper-vue-jsx-merge-props/-/babel-helper-vue-jsx-merge-props-2.0.2.tgz",
+    "hash": "aceb1c373588279e2755ea1cfd35c22394fd33f8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "aceb1c373588279e2755ea1cfd35c22394fd33f8"
+}

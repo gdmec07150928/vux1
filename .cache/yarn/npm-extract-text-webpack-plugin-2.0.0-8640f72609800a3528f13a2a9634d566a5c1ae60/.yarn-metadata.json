@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/extract-text-webpack-plugin/-/extract-text-webpack-plugin-2.0.0.tgz#8640f72609800a3528f13a2a9634d566a5c1ae60",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/extract-text-webpack-plugin/-/extract-text-webpack-plugin-2.0.0.tgz",
+    "hash": "8640f72609800a3528f13a2a9634d566a5c1ae60",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8640f72609800a3528f13a2a9634d566a5c1ae60"
+}

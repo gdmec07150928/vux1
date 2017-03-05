@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.22.0.tgz#c03635b27a23b23b7224f49232c237a73988d27c",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-decorators/-/babel-plugin-transform-decorators-6.22.0.tgz",
+    "hash": "c03635b27a23b23b7224f49232c237a73988d27c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c03635b27a23b23b7224f49232c237a73988d27c"
+}

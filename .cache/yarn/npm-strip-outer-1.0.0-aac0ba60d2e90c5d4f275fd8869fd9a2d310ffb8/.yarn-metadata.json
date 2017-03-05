@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/strip-outer/-/strip-outer-1.0.0.tgz#aac0ba60d2e90c5d4f275fd8869fd9a2d310ffb8",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/strip-outer/-/strip-outer-1.0.0.tgz",
+    "hash": "aac0ba60d2e90c5d4f275fd8869fd9a2d310ffb8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "aac0ba60d2e90c5d4f275fd8869fd9a2d310ffb8"
+}

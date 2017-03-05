@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-classes/-/babel-plugin-transform-es2015-classes-6.23.0.tgz#49b53f326202a2fd1b3bbaa5e2edd8a4f78643c1",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-classes/-/babel-plugin-transform-es2015-classes-6.23.0.tgz",
+    "hash": "49b53f326202a2fd1b3bbaa5e2edd8a4f78643c1",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "49b53f326202a2fd1b3bbaa5e2edd8a4f78643c1"
+}

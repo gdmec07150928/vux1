@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/icss-replace-symbols/-/icss-replace-symbols-1.0.2.tgz#cb0b6054eb3af6edc9ab1d62d01933e2d4c8bfa5",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/icss-replace-symbols/-/icss-replace-symbols-1.0.2.tgz",
+    "hash": "cb0b6054eb3af6edc9ab1d62d01933e2d4c8bfa5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "cb0b6054eb3af6edc9ab1d62d01933e2d4c8bfa5"
+}

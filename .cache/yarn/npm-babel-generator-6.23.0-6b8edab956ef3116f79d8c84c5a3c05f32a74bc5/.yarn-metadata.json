@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-generator/-/babel-generator-6.23.0.tgz#6b8edab956ef3116f79d8c84c5a3c05f32a74bc5",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-generator/-/babel-generator-6.23.0.tgz",
+    "hash": "6b8edab956ef3116f79d8c84c5a3c05f32a74bc5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6b8edab956ef3116f79d8c84c5a3c05f32a74bc5"
+}

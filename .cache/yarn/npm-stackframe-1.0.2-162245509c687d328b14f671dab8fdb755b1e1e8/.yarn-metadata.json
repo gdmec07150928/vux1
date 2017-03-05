@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/stackframe/-/stackframe-1.0.2.tgz#162245509c687d328b14f671dab8fdb755b1e1e8",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/stackframe/-/stackframe-1.0.2.tgz",
+    "hash": "162245509c687d328b14f671dab8fdb755b1e1e8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "162245509c687d328b14f671dab8fdb755b1e1e8"
+}

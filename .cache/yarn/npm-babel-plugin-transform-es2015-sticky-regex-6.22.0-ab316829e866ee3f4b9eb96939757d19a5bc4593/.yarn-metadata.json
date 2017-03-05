@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-sticky-regex/-/babel-plugin-transform-es2015-sticky-regex-6.22.0.tgz#ab316829e866ee3f4b9eb96939757d19a5bc4593",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-sticky-regex/-/babel-plugin-transform-es2015-sticky-regex-6.22.0.tgz",
+    "hash": "ab316829e866ee3f4b9eb96939757d19a5bc4593",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ab316829e866ee3f4b9eb96939757d19a5bc4593"
+}

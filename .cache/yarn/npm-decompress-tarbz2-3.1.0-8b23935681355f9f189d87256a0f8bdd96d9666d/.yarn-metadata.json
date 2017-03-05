@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/decompress-tarbz2/-/decompress-tarbz2-3.1.0.tgz#8b23935681355f9f189d87256a0f8bdd96d9666d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/decompress-tarbz2/-/decompress-tarbz2-3.1.0.tgz",
+    "hash": "8b23935681355f9f189d87256a0f8bdd96d9666d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8b23935681355f9f189d87256a0f8bdd96d9666d"
+}

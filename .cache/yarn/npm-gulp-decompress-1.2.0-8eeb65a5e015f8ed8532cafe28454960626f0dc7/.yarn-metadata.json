@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/gulp-decompress/-/gulp-decompress-1.2.0.tgz#8eeb65a5e015f8ed8532cafe28454960626f0dc7",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/gulp-decompress/-/gulp-decompress-1.2.0.tgz",
+    "hash": "8eeb65a5e015f8ed8532cafe28454960626f0dc7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8eeb65a5e015f8ed8532cafe28454960626f0dc7"
+}

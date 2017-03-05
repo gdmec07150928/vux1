@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/installed-by-yarn-globally/-/installed-by-yarn-globally-0.1.2.tgz#4f6ddefdcb04d51ec3180ad8fbc05a5ca657b2d9",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/installed-by-yarn-globally/-/installed-by-yarn-globally-0.1.2.tgz",
+    "hash": "4f6ddefdcb04d51ec3180ad8fbc05a5ca657b2d9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4f6ddefdcb04d51ec3180ad8fbc05a5ca657b2d9"
+}

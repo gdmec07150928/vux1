@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-traverse/-/babel-traverse-6.23.1.tgz#d3cb59010ecd06a97d81310065f966b699e14f48",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-traverse/-/babel-traverse-6.23.1.tgz",
+    "hash": "d3cb59010ecd06a97d81310065f966b699e14f48",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d3cb59010ecd06a97d81310065f966b699e14f48"
+}

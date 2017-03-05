@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/buffer-crc32/-/buffer-crc32-0.2.13.tgz#0d333e3f00eac50aa1454abd30ef8c2a5d9a7242",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/buffer-crc32/-/buffer-crc32-0.2.13.tgz",
+    "hash": "0d333e3f00eac50aa1454abd30ef8c2a5d9a7242",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0d333e3f00eac50aa1454abd30ef8c2a5d9a7242"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.2.0.tgz#7a0d097863d886c0fabbdcd37bf1758d8becf8a5",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.2.0.tgz",
+    "hash": "7a0d097863d886c0fabbdcd37bf1758d8becf8a5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7a0d097863d886c0fabbdcd37bf1758d8becf8a5"
+}

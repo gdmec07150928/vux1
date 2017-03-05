@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/cli-width/-/cli-width-2.1.0.tgz#b234ca209b29ef66fc518d9b98d5847b00edf00a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/cli-width/-/cli-width-2.1.0.tgz",
+    "hash": "b234ca209b29ef66fc518d9b98d5847b00edf00a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b234ca209b29ef66fc518d9b98d5847b00edf00a"
+}

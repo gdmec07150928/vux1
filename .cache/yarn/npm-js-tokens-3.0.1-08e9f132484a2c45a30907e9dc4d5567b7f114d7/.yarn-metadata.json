@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/js-tokens/-/js-tokens-3.0.1.tgz#08e9f132484a2c45a30907e9dc4d5567b7f114d7",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/js-tokens/-/js-tokens-3.0.1.tgz",
+    "hash": "08e9f132484a2c45a30907e9dc4d5567b7f114d7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "08e9f132484a2c45a30907e9dc4d5567b7f114d7"
+}

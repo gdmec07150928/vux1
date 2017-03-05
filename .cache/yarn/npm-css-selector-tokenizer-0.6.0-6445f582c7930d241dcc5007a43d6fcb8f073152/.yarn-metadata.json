@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/css-selector-tokenizer/-/css-selector-tokenizer-0.6.0.tgz#6445f582c7930d241dcc5007a43d6fcb8f073152",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/css-selector-tokenizer/-/css-selector-tokenizer-0.6.0.tgz",
+    "hash": "6445f582c7930d241dcc5007a43d6fcb8f073152",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6445f582c7930d241dcc5007a43d6fcb8f073152"
+}

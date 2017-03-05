@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/lodash.unionwith/-/lodash.unionwith-4.6.0.tgz#74d140b5ca8146e6c643c3724f5152538d9ac1f0",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/lodash.unionwith/-/lodash.unionwith-4.6.0.tgz",
+    "hash": "74d140b5ca8146e6c643c3724f5152538d9ac1f0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "74d140b5ca8146e6c643c3724f5152538d9ac1f0"
+}

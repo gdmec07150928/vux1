@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/sax/-/sax-1.2.2.tgz#fd8631a23bc7826bef5d871bdb87378c95647828",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/sax/-/sax-1.2.2.tgz",
+    "hash": "fd8631a23bc7826bef5d871bdb87378c95647828",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "fd8631a23bc7826bef5d871bdb87378c95647828"
+}

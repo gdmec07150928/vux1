@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/webp-support/-/webp-support-1.0.3.tgz#dd2af763758fa509e20419740920b77c22ff3c5d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/webp-support/-/webp-support-1.0.3.tgz",
+    "hash": "dd2af763758fa509e20419740920b77c22ff3c5d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "dd2af763758fa509e20419740920b77c22ff3c5d"
+}

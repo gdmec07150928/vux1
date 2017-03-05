@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vux-blazy/-/vux-blazy-1.6.4.tgz#e33073d902e0a3844ef1a463cce3ca2e0aab47bf",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vux-blazy/-/vux-blazy-1.6.4.tgz",
+    "hash": "e33073d902e0a3844ef1a463cce3ca2e0aab47bf",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e33073d902e0a3844ef1a463cce3ca2e0aab47bf"
+}

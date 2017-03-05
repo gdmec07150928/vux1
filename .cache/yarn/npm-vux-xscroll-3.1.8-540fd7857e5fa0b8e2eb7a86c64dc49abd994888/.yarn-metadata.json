@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vux-xscroll/-/vux-xscroll-3.1.8.tgz#540fd7857e5fa0b8e2eb7a86c64dc49abd994888",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vux-xscroll/-/vux-xscroll-3.1.8.tgz",
+    "hash": "540fd7857e5fa0b8e2eb7a86c64dc49abd994888",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "540fd7857e5fa0b8e2eb7a86c64dc49abd994888"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-preset-stage-2/-/babel-preset-stage-2-6.22.0.tgz#ccd565f19c245cade394b21216df704a73b27c07",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-preset-stage-2/-/babel-preset-stage-2-6.22.0.tgz",
+    "hash": "ccd565f19c245cade394b21216df704a73b27c07",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ccd565f19c245cade394b21216df704a73b27c07"
+}

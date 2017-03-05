@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/cli-spinners/-/cli-spinners-1.0.0.tgz#ef987ed3d48391ac3dab9180b406a742180d6e6a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/cli-spinners/-/cli-spinners-1.0.0.tgz",
+    "hash": "ef987ed3d48391ac3dab9180b406a742180d6e6a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ef987ed3d48391ac3dab9180b406a742180d6e6a"
+}

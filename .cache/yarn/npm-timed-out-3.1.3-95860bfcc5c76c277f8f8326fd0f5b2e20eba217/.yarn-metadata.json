@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/timed-out/-/timed-out-3.1.3.tgz#95860bfcc5c76c277f8f8326fd0f5b2e20eba217",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/timed-out/-/timed-out-3.1.3.tgz",
+    "hash": "95860bfcc5c76c277f8f8326fd0f5b2e20eba217",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "95860bfcc5c76c277f8f8326fd0f5b2e20eba217"
+}

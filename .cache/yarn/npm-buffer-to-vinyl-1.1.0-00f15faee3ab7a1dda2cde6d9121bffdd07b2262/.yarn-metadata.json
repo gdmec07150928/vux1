@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/buffer-to-vinyl/-/buffer-to-vinyl-1.1.0.tgz#00f15faee3ab7a1dda2cde6d9121bffdd07b2262",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/buffer-to-vinyl/-/buffer-to-vinyl-1.1.0.tgz",
+    "hash": "00f15faee3ab7a1dda2cde6d9121bffdd07b2262",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "00f15faee3ab7a1dda2cde6d9121bffdd07b2262"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vue-cli/-/vue-cli-2.8.1.tgz#1f11147346c618a943580a6584b9b7cd55a1bd02",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vue-cli/-/vue-cli-2.8.1.tgz",
+    "hash": "1f11147346c618a943580a6584b9b7cd55a1bd02",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1f11147346c618a943580a6584b9b7cd55a1bd02"
+}

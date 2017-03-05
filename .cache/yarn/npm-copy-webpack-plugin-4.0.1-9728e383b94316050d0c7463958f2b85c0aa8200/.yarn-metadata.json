@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/copy-webpack-plugin/-/copy-webpack-plugin-4.0.1.tgz#9728e383b94316050d0c7463958f2b85c0aa8200",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/copy-webpack-plugin/-/copy-webpack-plugin-4.0.1.tgz",
+    "hash": "9728e383b94316050d0c7463958f2b85c0aa8200",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9728e383b94316050d0c7463958f2b85c0aa8200"
+}

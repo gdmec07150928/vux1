@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vux-loader/-/vux-loader-1.0.45.tgz#a65e7bf7c310ab3116086dbd3aab95c781367de8",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vux-loader/-/vux-loader-1.0.45.tgz",
+    "hash": "a65e7bf7c310ab3116086dbd3aab95c781367de8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a65e7bf7c310ab3116086dbd3aab95c781367de8"
+}

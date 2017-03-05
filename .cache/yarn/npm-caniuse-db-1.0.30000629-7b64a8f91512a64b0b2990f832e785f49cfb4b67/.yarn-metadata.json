@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000629.tgz#7b64a8f91512a64b0b2990f832e785f49cfb4b67",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000629.tgz",
+    "hash": "7b64a8f91512a64b0b2990f832e785f49cfb4b67",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "7b64a8f91512a64b0b2990f832e785f49cfb4b67"
+}

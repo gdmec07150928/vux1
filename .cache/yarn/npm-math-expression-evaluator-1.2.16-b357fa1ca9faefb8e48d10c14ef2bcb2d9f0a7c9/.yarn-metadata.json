@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/math-expression-evaluator/-/math-expression-evaluator-1.2.16.tgz#b357fa1ca9faefb8e48d10c14ef2bcb2d9f0a7c9",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/math-expression-evaluator/-/math-expression-evaluator-1.2.16.tgz",
+    "hash": "b357fa1ca9faefb8e48d10c14ef2bcb2d9f0a7c9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b357fa1ca9faefb8e48d10c14ef2bcb2d9f0a7c9"
+}

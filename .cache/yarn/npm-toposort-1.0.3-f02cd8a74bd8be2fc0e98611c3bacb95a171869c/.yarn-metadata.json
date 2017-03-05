@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/toposort/-/toposort-1.0.3.tgz#f02cd8a74bd8be2fc0e98611c3bacb95a171869c",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/toposort/-/toposort-1.0.3.tgz",
+    "hash": "f02cd8a74bd8be2fc0e98611c3bacb95a171869c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f02cd8a74bd8be2fc0e98611c3bacb95a171869c"
+}

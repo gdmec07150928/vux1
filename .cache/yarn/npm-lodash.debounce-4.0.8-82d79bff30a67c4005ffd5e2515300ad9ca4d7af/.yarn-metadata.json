@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz",
+    "hash": "82d79bff30a67c4005ffd5e2515300ad9ca4d7af",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
+}

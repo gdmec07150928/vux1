@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/touch/-/touch-1.0.0.tgz#449cbe2dbae5a8c8038e30d71fa0ff464947c4de",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/touch/-/touch-1.0.0.tgz",
+    "hash": "449cbe2dbae5a8c8038e30d71fa0ff464947c4de",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "449cbe2dbae5a8c8038e30d71fa0ff464947c4de"
+}

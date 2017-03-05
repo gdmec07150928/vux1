@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-modules-systemjs/-/babel-plugin-transform-es2015-modules-systemjs-6.23.0.tgz#ae3469227ffac39b0310d90fec73bfdc4f6317b0",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-modules-systemjs/-/babel-plugin-transform-es2015-modules-systemjs-6.23.0.tgz",
+    "hash": "ae3469227ffac39b0310d90fec73bfdc4f6317b0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ae3469227ffac39b0310d90fec73bfdc4f6317b0"
+}

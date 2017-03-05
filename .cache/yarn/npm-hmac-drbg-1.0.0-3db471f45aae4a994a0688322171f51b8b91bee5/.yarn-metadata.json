@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/hmac-drbg/-/hmac-drbg-1.0.0.tgz#3db471f45aae4a994a0688322171f51b8b91bee5",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/hmac-drbg/-/hmac-drbg-1.0.0.tgz",
+    "hash": "3db471f45aae4a994a0688322171f51b8b91bee5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3db471f45aae4a994a0688322171f51b8b91bee5"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/utila/-/utila-0.4.0.tgz#8a16a05d445657a3aea5eecc5b12a4fa5379772c",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/utila/-/utila-0.4.0.tgz",
+    "hash": "8a16a05d445657a3aea5eecc5b12a4fa5379772c",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8a16a05d445657a3aea5eecc5b12a4fa5379772c"
+}

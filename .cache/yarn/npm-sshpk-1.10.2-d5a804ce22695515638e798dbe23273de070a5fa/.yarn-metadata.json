@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/sshpk/-/sshpk-1.10.2.tgz#d5a804ce22695515638e798dbe23273de070a5fa",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/sshpk/-/sshpk-1.10.2.tgz",
+    "hash": "d5a804ce22695515638e798dbe23273de070a5fa",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d5a804ce22695515638e798dbe23273de070a5fa"
+}

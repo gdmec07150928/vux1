@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/onetime/-/onetime-2.0.0.tgz#52aa8110e52fc5126ffc667bd8ec21c2ed209ce6",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/onetime/-/onetime-2.0.0.tgz",
+    "hash": "52aa8110e52fc5126ffc667bd8ec21c2ed209ce6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "52aa8110e52fc5126ffc667bd8ec21c2ed209ce6"
+}

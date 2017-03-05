@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-preset-es2017/-/babel-preset-es2017-6.22.0.tgz#de2f9da5a30c50d293fb54a0ba15d6ddc573f0f2",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-preset-es2017/-/babel-preset-es2017-6.22.0.tgz",
+    "hash": "de2f9da5a30c50d293fb54a0ba15d6ddc573f0f2",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "de2f9da5a30c50d293fb54a0ba15d6ddc573f0f2"
+}

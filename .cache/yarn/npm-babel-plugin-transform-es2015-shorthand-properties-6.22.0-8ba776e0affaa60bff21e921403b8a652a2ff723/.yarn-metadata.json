@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.22.0.tgz#8ba776e0affaa60bff21e921403b8a652a2ff723",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-shorthand-properties/-/babel-plugin-transform-es2015-shorthand-properties-6.22.0.tgz",
+    "hash": "8ba776e0affaa60bff21e921403b8a652a2ff723",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "8ba776e0affaa60bff21e921403b8a652a2ff723"
+}

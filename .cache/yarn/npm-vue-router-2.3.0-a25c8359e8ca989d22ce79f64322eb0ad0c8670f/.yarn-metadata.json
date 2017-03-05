@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/vue-router/-/vue-router-2.3.0.tgz#a25c8359e8ca989d22ce79f64322eb0ad0c8670f",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/vue-router/-/vue-router-2.3.0.tgz",
+    "hash": "a25c8359e8ca989d22ce79f64322eb0ad0c8670f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a25c8359e8ca989d22ce79f64322eb0ad0c8670f"
+}

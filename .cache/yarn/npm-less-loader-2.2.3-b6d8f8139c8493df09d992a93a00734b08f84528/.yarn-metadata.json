@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/less-loader/-/less-loader-2.2.3.tgz#b6d8f8139c8493df09d992a93a00734b08f84528",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/less-loader/-/less-loader-2.2.3.tgz",
+    "hash": "b6d8f8139c8493df09d992a93a00734b08f84528",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b6d8f8139c8493df09d992a93a00734b08f84528"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/html-minifier/-/html-minifier-3.4.0.tgz#80f236b7374d70f017fecaac42d37bb1170d2975",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/html-minifier/-/html-minifier-3.4.0.tgz",
+    "hash": "80f236b7374d70f017fecaac42d37bb1170d2975",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "80f236b7374d70f017fecaac42d37bb1170d2975"
+}

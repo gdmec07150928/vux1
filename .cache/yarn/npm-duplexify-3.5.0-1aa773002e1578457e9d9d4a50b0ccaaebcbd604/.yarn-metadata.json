@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/duplexify/-/duplexify-3.5.0.tgz#1aa773002e1578457e9d9d4a50b0ccaaebcbd604",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/duplexify/-/duplexify-3.5.0.tgz",
+    "hash": "1aa773002e1578457e9d9d4a50b0ccaaebcbd604",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1aa773002e1578457e9d9d4a50b0ccaaebcbd604"
+}

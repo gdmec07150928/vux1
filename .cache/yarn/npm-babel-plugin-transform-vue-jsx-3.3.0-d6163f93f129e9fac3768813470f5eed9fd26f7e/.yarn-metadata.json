@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-vue-jsx/-/babel-plugin-transform-vue-jsx-3.3.0.tgz#d6163f93f129e9fac3768813470f5eed9fd26f7e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-vue-jsx/-/babel-plugin-transform-vue-jsx-3.3.0.tgz",
+    "hash": "d6163f93f129e9fac3768813470f5eed9fd26f7e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d6163f93f129e9fac3768813470f5eed9fd26f7e"
+}

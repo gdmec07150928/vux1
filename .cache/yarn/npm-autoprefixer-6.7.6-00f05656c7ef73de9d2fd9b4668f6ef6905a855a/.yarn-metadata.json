@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-6.7.6.tgz#00f05656c7ef73de9d2fd9b4668f6ef6905a855a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-6.7.6.tgz",
+    "hash": "00f05656c7ef73de9d2fd9b4668f6ef6905a855a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "00f05656c7ef73de9d2fd9b4668f6ef6905a855a"
+}

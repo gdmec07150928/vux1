@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/es6-map/-/es6-map-0.1.4.tgz#a34b147be224773a4d7da8072794cefa3632b897",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/es6-map/-/es6-map-0.1.4.tgz",
+    "hash": "a34b147be224773a4d7da8072794cefa3632b897",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a34b147be224773a4d7da8072794cefa3632b897"
+}

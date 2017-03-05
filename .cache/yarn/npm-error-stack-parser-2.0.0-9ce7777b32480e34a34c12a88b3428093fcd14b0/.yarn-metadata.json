@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/error-stack-parser/-/error-stack-parser-2.0.0.tgz#9ce7777b32480e34a34c12a88b3428093fcd14b0",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/error-stack-parser/-/error-stack-parser-2.0.0.tgz",
+    "hash": "9ce7777b32480e34a34c12a88b3428093fcd14b0",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "9ce7777b32480e34a34c12a88b3428093fcd14b0"
+}

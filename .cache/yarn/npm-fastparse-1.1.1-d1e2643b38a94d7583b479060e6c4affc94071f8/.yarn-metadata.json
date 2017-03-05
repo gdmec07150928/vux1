@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/fastparse/-/fastparse-1.1.1.tgz#d1e2643b38a94d7583b479060e6c4affc94071f8",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/fastparse/-/fastparse-1.1.1.tgz",
+    "hash": "d1e2643b38a94d7583b479060e6c4affc94071f8",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d1e2643b38a94d7583b479060e6c4affc94071f8"
+}

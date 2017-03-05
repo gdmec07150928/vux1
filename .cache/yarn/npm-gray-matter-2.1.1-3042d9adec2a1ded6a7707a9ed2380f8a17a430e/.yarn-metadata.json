@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/gray-matter/-/gray-matter-2.1.1.tgz#3042d9adec2a1ded6a7707a9ed2380f8a17a430e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/gray-matter/-/gray-matter-2.1.1.tgz",
+    "hash": "3042d9adec2a1ded6a7707a9ed2380f8a17a430e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3042d9adec2a1ded6a7707a9ed2380f8a17a430e"
+}

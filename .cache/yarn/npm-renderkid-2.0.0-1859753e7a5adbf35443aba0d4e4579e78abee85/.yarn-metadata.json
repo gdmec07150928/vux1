@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/renderkid/-/renderkid-2.0.0.tgz#1859753e7a5adbf35443aba0d4e4579e78abee85",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/renderkid/-/renderkid-2.0.0.tgz",
+    "hash": "1859753e7a5adbf35443aba0d4e4579e78abee85",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1859753e7a5adbf35443aba0d4e4579e78abee85"
+}

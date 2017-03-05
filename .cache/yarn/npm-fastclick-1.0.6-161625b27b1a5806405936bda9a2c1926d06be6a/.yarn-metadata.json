@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/fastclick/-/fastclick-1.0.6.tgz#161625b27b1a5806405936bda9a2c1926d06be6a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/fastclick/-/fastclick-1.0.6.tgz",
+    "hash": "161625b27b1a5806405936bda9a2c1926d06be6a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "161625b27b1a5806405936bda9a2c1926d06be6a"
+}

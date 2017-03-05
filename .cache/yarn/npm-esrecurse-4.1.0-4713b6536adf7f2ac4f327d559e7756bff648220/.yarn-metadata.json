@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/esrecurse/-/esrecurse-4.1.0.tgz#4713b6536adf7f2ac4f327d559e7756bff648220",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/esrecurse/-/esrecurse-4.1.0.tgz",
+    "hash": "4713b6536adf7f2ac4f327d559e7756bff648220",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "4713b6536adf7f2ac4f327d559e7756bff648220"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/trim-repeated/-/trim-repeated-1.0.0.tgz#e3646a2ea4e891312bf7eace6cfb05380bc01c21",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/trim-repeated/-/trim-repeated-1.0.0.tgz",
+    "hash": "e3646a2ea4e891312bf7eace6cfb05380bc01c21",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e3646a2ea4e891312bf7eace6cfb05380bc01c21"
+}
